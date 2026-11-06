@@ -1,0 +1,83 @@
+TELUGU POSITIONAL INDEX - TEST RESULTS
+==================================================
+
+TEST CASE 1
+------------------------------
+
+Term: ంకౌపీ
+DF: 1
+CF: 1
+D396: [2437]
+Result: PASS
+
+
+Term: ందష్
+DF: 1
+CF: 1
+D188: [1573]
+Result: PASS
+
+TEST CASE 2
+------------------------------
+
+Term: ంపత్స్వనాథ్
+DF: 1
+CF: 1
+D412: [448]
+Result: PASS
+
+
+Term: ంలో
+DF: 1
+CF: 1
+D413: [341]
+Result: PASS
+
+TEST CASE 3
+------------------------------
+
+Term: ంశం
+DF: 1
+CF: 1
+D225: [2022]
+Result: PASS
+
+
+Term: ః
+DF: 1
+CF: 1
+D182: [418]
+Result: PASS
+
+TEST CASE 4
+------------------------------
+
+Term: అంకగణితం
+DF: 1
+CF: 1
+D448: [229]
+Result: PASS
+
+
+Term: అంకము
+DF: 1
+CF: 1
+D50: [363]
+Result: PASS
+
+TEST CASE 5
+------------------------------
+
+Term: అంకముజేరి
+DF: 1
+CF: 1
+D74: [541]
+Result: PASS
+
+
+Term: అంకలగి
+DF: 1
+CF: 1
+D393: [2304]
+Result: PASS
+
